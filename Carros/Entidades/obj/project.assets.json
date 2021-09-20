@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexi\\Documents\\Tutorías_POO\\Carros\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\alexi\\Documents\\GitHub\\Tuturias\\Carros\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\alexi\\Documents\\Tutorías_POO\\Carros\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\alexi\\Documents\\GitHub\\Tuturias\\Carros\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexi\\Documents\\Tutorías_POO\\Carros\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\alexi\\Documents\\GitHub\\Tuturias\\Carros\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",

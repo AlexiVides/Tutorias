@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexi\\Documents\\Tutorías_POO\\Carros\\Datos\\Datos.csproj": {}
+    "C:\\Users\\alexi\\Documents\\GitHub\\Tuturias\\Carros\\Datos\\Datos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexi\\Documents\\Tutorías_POO\\Carros\\Datos\\Datos.csproj": {
+    "C:\\Users\\alexi\\Documents\\GitHub\\Tuturias\\Carros\\Datos\\Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexi\\Documents\\Tutorías_POO\\Carros\\Datos\\Datos.csproj",
+        "projectUniqueName": "C:\\Users\\alexi\\Documents\\GitHub\\Tuturias\\Carros\\Datos\\Datos.csproj",
         "projectName": "Datos",
-        "projectPath": "C:\\Users\\alexi\\Documents\\Tutorías_POO\\Carros\\Datos\\Datos.csproj",
+        "projectPath": "C:\\Users\\alexi\\Documents\\GitHub\\Tuturias\\Carros\\Datos\\Datos.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexi\\Documents\\Tutorías_POO\\Carros\\Datos\\obj\\",
+        "outputPath": "C:\\Users\\alexi\\Documents\\GitHub\\Tuturias\\Carros\\Datos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\alexi\\Documents\\Tutorías_POO\\Carros\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\alexi\\Documents\\Tutorías_POO\\Carros\\Entidades\\Entidades.csproj"
+              "C:\\Users\\alexi\\Documents\\GitHub\\Tuturias\\Carros\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\alexi\\Documents\\GitHub\\Tuturias\\Carros\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\alexi\\Documents\\Tutorías_POO\\Carros\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\alexi\\Documents\\GitHub\\Tuturias\\Carros\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexi\\Documents\\Tutorías_POO\\Carros\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\alexi\\Documents\\GitHub\\Tuturias\\Carros\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\alexi\\Documents\\Tutorías_POO\\Carros\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\alexi\\Documents\\GitHub\\Tuturias\\Carros\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexi\\Documents\\Tutorías_POO\\Carros\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\alexi\\Documents\\GitHub\\Tuturias\\Carros\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",
